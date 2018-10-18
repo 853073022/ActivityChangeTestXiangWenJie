@@ -6,6 +6,7 @@
     android:layout_height="wrap_content"
     android:orientation="horizontal"
     tools:context="com.example.administrator.activitychangetestxiangwenjie.MainActivity">
+    
     <!--  水平布局 -->
         <TextView
             android:id="@+id/textView"
